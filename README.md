@@ -2,7 +2,7 @@
 ## Introducción 
 Aquí puedes encontrar las instrucciones y ejercicios resueltos del curso "Inteligencia Artificial Generativa para Análisis Geoespacial y Urbano"
 
-## Ejercicio 1. 
+## Ejercicio 1
 
 ### Paso 1: Preparación
 A. Abre colab.google.com en el navegador de tu preferencia y accede con tu cuenta de Gmail.
